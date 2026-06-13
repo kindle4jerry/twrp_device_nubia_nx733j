@@ -11,7 +11,6 @@
 /vendor                 ext4    vendor                                                             flags=display="Vendor"
 /vendor_dlkm            ext4    vendor_dlkm                                                        flags=display="Vendor_DLKM"
 /odm                    ext4    odm                                                                flags=display="ODM"
-/odm_dlkm               ext4    odm_dlkm                                                           flags=display="ODM_DLKM"
 #TODO /system_dlkm  ext4 system_dlkm flags=display="System_DLKM"
 
 # Metadata/Misc Properties
