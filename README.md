@@ -26,3 +26,4 @@ Please be careful; the project has not been adequately tested.
 
 [YuKongA/twrp_device_xiaomi_sm8750_thales](https://github.com/YuKongA/twrp_device_xiaomi_sm8750_thales)
 [reminon/twrp_device_nubia_nx789j](https://github.com/reminon/twrp_device_nubia_nx789j)
+[DrakiSama/twrp_device_nubia_nx733j](https://github.com/DrakiSama/twrp_device_nubia_nx733j)
