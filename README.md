@@ -9,13 +9,13 @@
 - [X] Flashing
 - [X] MTP
 - [X] USB-OTG
-- [ ] Vibrator
+- [X] Vibrator
 
 ## Notices
 
-Vibrator is broken, using vibration will cause a touch delay of several seconds.
+Vibrator works. However, vibration intensity adjustment is unavailable — only single-level click feedback is provided.
 
-Battery capacity display is broken.
+Battery capacity display is fixed.
 
 Please be careful; the project has not been adequately tested.
 
@@ -24,6 +24,6 @@ Please be careful; the project has not been adequately tested.
 
 ## Thanks
 
-[YuKongA/twrp_device_xiaomi_sm8750_thales](https://github.com/YuKongA/twrp_device_xiaomi_sm8750_thales)
-[reminon/twrp_device_nubia_nx789j](https://github.com/reminon/twrp_device_nubia_nx789j)
-[DrakiSama/twrp_device_nubia_nx733j](https://github.com/DrakiSama/twrp_device_nubia_nx733j)
+* [YuKongA/twrp_device_xiaomi_sm8750_thales](https://github.com/YuKongA/twrp_device_xiaomi_sm8750_thales)
+* [reminon/twrp_device_nubia_nx789j](https://github.com/reminon/twrp_device_nubia_nx789j)
+* [DrakiSama/twrp_device_nubia_nx733j](https://github.com/DrakiSama/twrp_device_nubia_nx733j)
