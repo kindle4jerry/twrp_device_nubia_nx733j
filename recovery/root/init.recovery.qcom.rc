@@ -88,3 +88,4 @@ on post-fs
     write /sys/kernel/fan/fan_enable 1
     write /sys/kernel/fan/fan_speed_level 1
     write /sys/class/leds/aw22xxx_led/trigger battery-charging-or-full
+    write /sys/class/leds/vibrator/trigger transient
